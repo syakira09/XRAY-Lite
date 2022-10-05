@@ -24,7 +24,7 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
 
 <br>
 
-## ⏩ XRAY AUTOSCRIPT DETAILS ⏪
+## ⏩ XRAY LITE DETAILS ⏪
 <b>
 [ XRAY SERVICES ] <br>
 <br>
@@ -57,6 +57,20 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
   ```html
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/XRAY-Lite/main/V1/setup-lite.sh && chmod +x setup-lite.sh && screen -S setup-lite ./setup-lite.sh
   ```
+## ⏩ XRAY LITE EXAMPLE ⏪
+<b>
+</b>
+<br>
+
+</b>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82468311/193986680-5f53f0c7-f44f-4b24-825c-faf195a5296f.png" width="400" title="Autoscript-Lite">
+</p>
+
+</b>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/82468311/193986812-c1f82ca6-3f7e-4563-8f79-6bfa3fb8d9fb.png" width="400" title="Autoscript-Lite">
+</p>
 ## ⏩ BUY ME A COFFEE ? ⏪
 <b>
 <br>
