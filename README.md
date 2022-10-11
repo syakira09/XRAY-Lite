@@ -51,6 +51,12 @@ SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTING
 ✅ AUTOMATIC VPS REBOOT <br>
 ✅ BACKUP & RESTORE <br>
 <br>
+♦️ For Debian 10 Only For First Time Installation (Update Repo) <br>
+<br>
+  
+  ```html
+ apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+  ```
 
 ♦️ Installation Link<br>
 
